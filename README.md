@@ -1,5 +1,4 @@
 # Robot_2WD_PyGame
-This program simulates a moving robot using Pygame. The robot is represented by a blue circle with green and red wheels. It can be controlled by adjusting the angular speeds of the wheels.
 This program is a simulation of a robot moving in a graphical environment. It utilizes the Pygame library to display the simulation on the screen.
 
 The robot is represented by a blue circle, with a green wheel on the left and a red wheel on the right. The robot's coordinates, speed, and orientation are updated at each iteration of the program's main loop.
